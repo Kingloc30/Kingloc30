@@ -2,7 +2,7 @@
 -  I’m interested in ... Software development and AI 
 -  My experience is in ... 
    - Python and its more popular libraries, and frameworks
-   - Html, Css/sass and currently learning javascript
+   - Html, Css, javascript
    - arduinocode, micro controllers and raspberry pi
    - 3d design in Fusion360 and Blender
    - 3D printing including building custom machines and modifying firmwares
